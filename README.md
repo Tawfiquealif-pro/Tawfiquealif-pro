@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
  My main tech stack is Js, reactjs, node.js, express.js . I use figma and adobe illustrator to design front end
 
- I've got a lot of pin projects but my favourite is [BAFSK-ITC]("https://tawfiquealif-pro.github.io/BAFSK-ITC/") it is the recent webpage that i created for my college's IT club. Although I have over 20 unique projects in private but publicly I displayed 5-10 unique and useful 
+ I've got a lot of pin projects but my favourite is [BAFSK-ITC](https://tawfiquealif-pro.github.io/BAFSK-ITC/) it is the recent webpage that i created for my college's IT club. Although I have over 20 unique projects in private but publicly I displayed 5-10 unique and useful 
 
  ## Fun fact  
  - I like anime
