@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 
  I've got a lot of pin projects but my favourite is [BAFSK-ITC]("https://tawfiquealif-pro.github.io/BAFSK-ITC/") it is the recent webpage that i created for my college's IT club. Although I have over 20 unique projects in private but publicly I displayed 5-10 unique and useful 
 
- ##Fun fact  
- -I like anime
- -Some of my design's are inspired
- -Like cofee over tea
- -Recently watched Demon Slayer anime
+ ## Fun fact  
+ - I like anime
+ - Some of my design's are inspired
+ - Like cofee over tea
+ - Recently watched Demon Slayer anime
 
  
